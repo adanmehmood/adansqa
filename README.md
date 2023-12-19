@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chadan280
 - 👀 I’m interested in SQA
 - 💞️ I’m looking for internship
-- - 🌱 I’m currently learning SQA from internet
+- - 🌱 I’m currently learning SQA from internet and praticing on projects
 - 📫 How to reach me chadan280@gmail.com
 
 <!---
