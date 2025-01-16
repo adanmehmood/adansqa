@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adan Mehmnood
-- 👀 I’m software Tester
-- - 🌱 I’m currently doind internship in F.H.A technologies 
+- 👀 I’m software Quality Analyst 
+-  🌱 I’m currently in F.H.A technologies 
 - 📫 How to reach me adansqa@gmail.com
 
 <!---
